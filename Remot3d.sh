@@ -136,6 +136,15 @@ printf "${white}
       │                                                                              │
       └──────────────────────────────────────────────────────────────────────────────┘\n"
 }
+banner6() {
+printf "${white}
+/  \.-"""-./  \
+\    -   -    /
+ |   ${green}o   o ${white}  |  ${green} PHP REMOTE BACKDOOR By KeepWannabe
+ \  .-'''-.  /
+  '-\__Y__/-'
+     `---`
+     \n"
 dir=$(pwd)
 spinlong ()
 {
